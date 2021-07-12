@@ -22,9 +22,9 @@
       "value": "@MafiaBot_Support",
       "required": false
     },
-    "SUDO_USERS": {
+    "SUDO_IDS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "1673457128",
+      "value": "",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -38,39 +38,48 @@
     },
     "STRING_SESSION2": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },    
     "STRING_SESSION3": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION4": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION5": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION6": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION7": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION8": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION9": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "STRING_SESSION10": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
