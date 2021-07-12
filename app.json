@@ -36,6 +36,42 @@
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
       "value": ""
     },
+    "STRING_SESSION2": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },    
+    "STRING_SESSION3": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION4": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION5": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION6": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION7": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION8": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION9": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
+    "STRING_SESSION10": {
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "value": ""
+    },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
       "value": "-336323518",
